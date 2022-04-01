@@ -1,0 +1,47 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Cherskiy,RU,68.75,161.3,0.03,91,99,8.03,overcast clouds
+1,Saldanha,ZA,-33.0117,17.9442,61.65,83,19,10.83,few clouds
+2,Ushuaia,AR,-54.8,-68.3,46.06,81,40,6.91,scattered clouds
+3,Dikson,RU,73.5069,80.5464,26.94,83,100,16.06,overcast clouds
+4,Barmer,IN,25.75,71.3833,97.32,4,0,4.92,clear sky
+5,Sioux Lookout,CA,50.1001,-91.917,23.07,86,100,12.66,overcast clouds
+6,Butaritari,KI,3.0707,172.7902,81.39,74,8,9.48,clear sky
+7,Rikitea,PF,-23.1203,-134.9692,77.27,79,71,12.3,light rain
+8,Punta Arenas,CL,-53.15,-70.9167,50.11,71,75,26.46,light rain
+9,Rassvet,RU,46.8333,40.75,56.32,61,39,2.46,scattered clouds
+10,Torbay,CA,47.6666,-52.7314,34.27,89,75,19.57,broken clouds
+11,Georgetown,MY,5.4112,100.3354,87.75,73,20,13.8,few clouds
+12,Saskylakh,RU,71.9167,114.0833,7.32,91,100,9.69,overcast clouds
+13,Albany,US,42.6001,-73.9662,39.42,55,92,3.0,overcast clouds
+14,Praia Da Vitoria,PT,38.7333,-27.0667,59.76,94,75,2.57,broken clouds
+15,Dunedin,NZ,-45.8742,170.5036,62.8,79,94,2.39,overcast clouds
+16,Dakar,SN,14.6937,-17.4441,67.08,84,98,19.66,overcast clouds
+17,Puerto Ayora,EC,-0.7393,-90.3518,74.55,99,99,1.99,overcast clouds
+18,Talnakh,RU,69.4865,88.3972,31.21,94,94,18.25,light snow
+19,La Valette-Du-Var,FR,43.1374,5.9831,47.23,94,100,1.01,overcast clouds
+20,Isabela,PH,6.7085,121.9711,87.85,64,15,7.16,few clouds
+21,Kawalu,ID,-7.3817,108.2082,86.09,64,53,3.38,broken clouds
+22,Arlit,NE,18.7369,7.3853,72.32,5,10,3.09,clear sky
+23,Mao,ES,39.8885,4.2658,52.36,93,75,4.61,broken clouds
+24,Kapaa,US,22.0752,-159.319,75.18,93,75,11.5,broken clouds
+25,Bredasdorp,ZA,-34.5322,20.0403,61.56,74,89,2.95,overcast clouds
+26,Hobart,AU,-42.8794,147.3294,57.25,67,75,14.97,broken clouds
+27,Lloro,CO,5.4961,-76.5495,73.11,98,100,1.32,overcast clouds
+28,Barrow,US,71.2906,-156.7887,-7.58,77,0,16.11,clear sky
+29,Yellowknife,CA,62.456,-114.3525,13.41,73,100,10.36,overcast clouds
+30,Gizo,SB,-8.103,156.8419,84.13,75,77,8.46,light rain
+31,Guerrero Negro,MX,27.9769,-114.0611,58.62,84,7,15.1,clear sky
+32,Cayenne,GF,4.9333,-52.3333,78.1,1,75,4.0,broken clouds
+33,Fowa,NG,8.9167,6.4,77.85,52,70,3.4,broken clouds
+34,Ostrovnoy,RU,68.0531,39.5131,16.29,89,99,7.09,overcast clouds
+35,Kavieng,PG,-2.5744,150.7967,83.88,73,83,12.21,light rain
+36,Guigue,VE,10.0853,-67.7792,69.91,90,83,4.74,broken clouds
+37,Heishan,CN,41.6892,122.1128,49.77,26,73,10.94,broken clouds
+38,Thompson,CA,55.7435,-97.8558,26.76,50,75,4.61,broken clouds
+39,Sao Filipe,CV,14.8961,-24.4956,70.29,79,39,11.99,scattered clouds
+40,Tasiilaq,GL,65.6145,-37.6368,33.96,98,100,11.7,snow
+41,Chokurdakh,RU,70.6333,147.9167,-9.56,96,17,3.83,few clouds
+42,San Patricio,US,28.017,-97.5169,73.26,45,0,14.38,clear sky
+43,Kruisfontein,ZA,-34.0033,24.7314,61.88,71,100,0.74,overcast clouds
+44,Garowe,SO,8.4054,48.4845,78.71,57,10,9.55,clear sky
+45,Alice Springs,AU,-23.7,133.8833,81.95,28,27,16.11,scattered clouds
